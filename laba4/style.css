@@ -1,0 +1,45 @@
+
+.colortext1 {
+            position: relative;
+            margin-left: 150px;
+            background-color: #F4A460; /* Цвет фона */
+            color: #000080; /* Цвет текста */
+            font-size: 9pt;
+            font-weight: 600;
+}
+.colortext2 {
+            position: relative;
+            margin-left: 150px;
+            background-color: #7FFF00; /* Цвет фона */
+            color: #006400; /* Цвет текста */
+            font-size: 9pt;
+            font-weight: 600;
+}
+.colortext3 {
+            position: relative;
+            margin-left: 150px;
+            background-color: #F08080; /* Цвет фона */
+            color: #8B0000; /* Цвет текста */
+            font-size: 9pt;
+            font-weight: 600;
+}
+.b1 {
+            position: relative;
+            margin-left: 150px;
+            background: navy; /* Синий цвет фона */
+            color: white; /* Белые буквы */
+            font-size: 9pt; /* Размер шрифта в пунктах */
+}
+.res {
+            position: relative;
+            margin-left: 150px;
+            color: blue;
+            font-size: 12pt; /* Размер шрифта в пунктах */
+}
+img
+{
+    position: relative;
+    top: 5px;
+    left: 150px;
+    padding-right: 150px;
+}

@@ -1,0 +1,44 @@
+﻿body {
+    font-family: "Times New Roman", serif;
+}
+
+.colortext1 {                    /* Название стиля, если подключать через 
+                                                            файл, пишем без точки*/       
+    position: relative;          /* Позиция относительно других элементов */
+    margin-left: 150px;              /* Левое поле */
+    background-color: #F4A460;   /* Цвет фона */
+    color: #000080;              /* Цвет текста */
+    font-size: 9pt;                  /* Размер текста */
+    font-weight: 600;              /* Жирное начертание */
+
+}
+
+.b1 {   
+    
+    position: relative;    
+    margin-left: 150px;              
+    background-color: Purple;
+    color: White;            
+    font-size: 9pt;              
+    font-weight: 600;           
+
+}
+
+.res {                    
+    
+    position: relative;        
+    margin-left: 150px;            
+    background-color: LightRed;   
+    color: DarkRed;           
+    font-size: 9pt;                
+    font-weight: 600;         
+
+}
+
+img
+{
+    position: relative;
+    top: 5px;
+    left: 150px;
+    padding-right: 150px;
+}
