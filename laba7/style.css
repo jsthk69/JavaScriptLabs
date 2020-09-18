@@ -1,0 +1,7 @@
+﻿body {
+    font-family: "Times New Roman", serif;
+	color: blue;
+	text-align: center;
+	padding: 250px; /* Поля вокруг текста */
+	background: Violet;
+}
