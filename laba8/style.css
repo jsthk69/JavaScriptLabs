@@ -1,0 +1,10 @@
+﻿body {
+	font-family: "Times New Roman", serif;
+	color: red;
+	text-align: left;
+	position: relative;
+    margin-left: 150px;
+	margin-top: 150px;
+    font-size: 15pt;
+	background: #1C1C1C;
+}

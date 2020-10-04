@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="style.css" rel="stylesheet" />
+    <script src="script.js"></script>
+    <title>Лабораторная работа 9</title>
+</head>
+	<body>
+		<p><h1 style="color: pink;">Вариант 9</h1>
+		<h2 style="color: darkviolet;">Выполнил: Трошин Андрей</h2>
+		<h3 style="color: purple; font-size: 12pt">Найти сумму чисел s=1*2+2*3+3*4+…+n*(n+1), для вводимых значений x, 
+		членов ряда меньших по модулю числа r и для первых m членов ряда.</h3></p>
+		<p> Выберите действие: </p>
+			<input id="v1" type="radio" name="v1" value="1"> <label for="f1"> Меньших по модулю числа r </label><br>
+			<input id="v2" type="radio" name="v1" value="2"> <label for="f1"> Для первых m членов ряда </label><br>
+		<p class="red">Введите значения:</p>
+			<input id="x" type="text" size="10" value="1" /> X <br>
+			<input id="r" type="text" size="10" value="3" /> R <br>
+			<input id="m" type="text" size="10" value="3" /> M <br>
+		<p><a href="javascript:resh()" style="color: red">Вычислить</a></p>
+		<p><div id="result" class="res"></div></p>
+	</body>
+</html>
