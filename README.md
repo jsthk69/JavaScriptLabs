@@ -1,1 +1,1 @@
-# js_lab
+# JavaScript Labs
